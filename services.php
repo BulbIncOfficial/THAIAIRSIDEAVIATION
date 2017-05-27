@@ -68,7 +68,11 @@
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
+<<<<<<< HEAD
 							<h1>Our Services</h1>
+=======
+							<h1>Services</h1>
+>>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
 							
 						</div>
 					</div>
@@ -119,7 +123,11 @@ Technical handling services provided by Airside Engineering as follows:
 		</div>
 	</div>
 
+<<<<<<< HEAD
 	<!-- <div class="gtco-cover gtco-cover-sm" style="background-image:url(images/ser2.jpg);">
+=======
+	<div class="gtco-cover gtco-cover-sm" style="background-image:url(images/ser2.jpg);">
+>>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
 		<div class="overlay"></div>
 		<div class="gtco-container">
 			<div class="row">
@@ -130,7 +138,11 @@ Technical handling services provided by Airside Engineering as follows:
 				</div>
 			</div>
 		</div>
+<<<<<<< HEAD
 	</div> -->
+=======
+	</div>
+>>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
 	<div id="gtco-team" class="gtco-section">
 		<div class="gtco-container">
 			<div class="row animate-box">

@@ -87,8 +87,12 @@ Thai Airside Aviation offering a good range of aircraft engineering support incl
 				</div>
 			</div>
 			<div class="row animate-box">
+<<<<<<< HEAD
 			<div class="col-md-2"></div>
 				<div class="col-md-4">
+=======
+				<div class="col-md-6">
+>>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
 					<div class="feature-left animate-box" data-animate-effect="fadeInLeft">
 						<span class="icon">
 							<i class="icon-check"></i>
@@ -100,7 +104,11 @@ Thai Airside Aviation offering a good range of aircraft engineering support incl
 					</div>
 
 				</div>
+<<<<<<< HEAD
 				<div class="col-md-4">
+=======
+				<div class="col-md-6">
+>>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
 				<div class="feature-left animate-box" data-animate-effect="fadeInLeft">
 						<span class="icon">
 							<i class="icon-check"></i>
@@ -115,7 +123,11 @@ Thai Airside Aviation offering a good range of aircraft engineering support incl
 		</div>
 	</div>
 
+<<<<<<< HEAD
 <!-- 	<div class="gtco-cover gtco-cover-sm" style="background-image:url(images/engineer62.jpg);">
+=======
+	<div class="gtco-cover gtco-cover-sm" style="background-image:url(images/engineer62.jpg);">
+>>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
 		<div class="overlay"></div>
 		<div class="gtco-container">
 			<div class="row">
@@ -126,7 +138,11 @@ Thai Airside Aviation offering a good range of aircraft engineering support incl
 				</div>
 			</div>
 		</div>
+<<<<<<< HEAD
 	</div> -->
+=======
+	</div>
+>>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
 	<div id="gtco-team" class="gtco-section">
 		<div class="gtco-container">
 			<div class="row animate-box">
@@ -136,6 +152,7 @@ Thai Airside Aviation offering a good range of aircraft engineering support incl
 			</div>
 			<div class="row row-pb-md">
 				<div class="col-md-4 animate-box" data-animate-effect="fadeIn">
+<<<<<<< HEAD
 					<div class="gtco-staff" style="text-align: justify;
     text-justify: inter-word;">
 						
@@ -153,10 +170,17 @@ Thai Airside Aviation offering a good range of aircraft engineering support incl
 						We are committed to protect our environment, and it is an integral part of our business. To improve our environmental footprint we are conducting regular monitor consumption of resources, such as energy, water and waste production, as well as provide awareness training to our employees.<br><br>
 For changes to workplaces we assess the potential impact on occupational safety, health and the environment to make sure that we improve continuously.
 </p>
+=======
+					<div class="gtco-staff">
+						
+						<h3>Safety</h3>
+						<p>Safety is the cornerstone for all of our activities. By practice and procedure, we strive for safety for each customer, employee, and the environment.</p>
+>>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
 						
 					</div>
 				</div>
 				<div class="col-md-4 animate-box" data-animate-effect="fadeIn">
+<<<<<<< HEAD
 					<div class="gtco-staff" style="text-align: justify;
     text-justify: inter-word;">
 						
@@ -177,10 +201,24 @@ For changes to workplaces we assess the potential impact on occupational safety,
     text-justify: inter-word;">
 						
 						<h3>TRUST & BELIEF </h3>
+=======
+					<div class="gtco-staff">
+						
+						<h3>Customer always</h3>
+						<p>We operate with our customers’ values in mind. We plan, perform, revise, and improve continuously to facilitate customers in all their aspects.</p>
+						
+					</div>
+				</div>
+				<div class="col-md-4 animate-box" data-animate-effect="fadeIn">
+					<div class="gtco-staff">
+						
+						<h3>Trust & Belief </h3>
+>>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
 						<p>We serve our customers with the conviction of “we can do better” firmly instilled in every employee. We build mutual trust and teamwork among employees based on our “discipline, practices, respect and responsibility” commitment.</p>
 						
 					</div>
 				</div>
+<<<<<<< HEAD
 				<div class="col-md-4 animate-box" data-animate-effect="fadeIn">
 					<div class="gtco-staff" style="text-align: justify;
     text-justify: inter-word;">
@@ -191,6 +229,8 @@ For changes to workplaces we assess the potential impact on occupational safety,
 					</div>
 				</div>
 				
+=======
+>>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
 			</div>
 
 

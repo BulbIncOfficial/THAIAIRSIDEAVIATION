@@ -68,7 +68,11 @@
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
+<<<<<<< HEAD
 							<h1>Our Strength</h1>
+=======
+							<h1>Strength</h1>
+>>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
 							
 						</div>
 					</div>
