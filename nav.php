@@ -2,7 +2,8 @@
 		<div class="gtco-container" >
 			<div class="row">
 				<div class="col-xs-3">
-					<div id="gtco-logo" style="color:white;">Thai Airside Aviation</div>
+				
+					<div id="gtco-logo" style="color:white;"><img src="logo1.png" style="max-height: 5vh;"></div>
 				</div>
 				<div class="col-xs-9 text-right menu-1" style="color:white;">
 					<ul>
@@ -13,8 +14,8 @@
 						<li><a href="strength.php">Our Strength</a></li>
 
 						<br><br>
-						<li><a href="capabilities.php">Our Capabilities</a></li>
-						<li><a href="facilities.php">Our Facilities</a></li>
+						<li><a href="capabilities.php">Our Capabilities</a></li><!-- 
+						<li><a href="facilities.php">Our Facilities</a></li> -->
 						<li><a href="approvals.php">Our Approvals</a></li>
 						<li><a href="news.php">News & events</a></li>
 						

@@ -119,7 +119,7 @@ Technical handling services provided by Airside Engineering as follows:
 		</div>
 	</div>
 
-	<div class="gtco-cover gtco-cover-sm" style="background-image:url(images/ser2.jpg);">
+	<!-- <div class="gtco-cover gtco-cover-sm" style="background-image:url(images/ser2.jpg);">
 		<div class="overlay"></div>
 		<div class="gtco-container">
 			<div class="row">
@@ -130,7 +130,7 @@ Technical handling services provided by Airside Engineering as follows:
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<div id="gtco-team" class="gtco-section">
 		<div class="gtco-container">
 			<div class="row animate-box">

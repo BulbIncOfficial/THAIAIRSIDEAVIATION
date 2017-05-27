@@ -58,7 +58,7 @@
 	
 	<div id="page">
 	<?php require_once("nav.php");?> 
-	<header id="gtco-header" class="gtco-cover" role="banner" style="background-image:url(images/img_bg_1.jpg);">
+	<header id="gtco-header" class="gtco-cover" role="banner" style="background-image:url(images/engineer62.jpg);">
 		<div class="overlay"></div>
 		<div class="gtco-container">
 			<div class="row">
@@ -66,7 +66,7 @@
 					<div class="display-t">
 
 					<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<img src="logo.jpg">
+							<img src="logo1.png" style="max-height: 20vh;">
 							<h1>Thai Airside Aviation</h1>
 							<h2>An aircraft maintenance organization</h2>
 							
