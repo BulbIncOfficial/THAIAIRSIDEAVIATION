@@ -57,19 +57,19 @@
 	<div class="gtco-loader"></div>
 	
 	<div id="page">
-	<?php require_once("nav.php");?> 
+	<?php require_once("nav_home.php");?> 
 
 	<header id="gtco-header" class="gtco-cover" role="banner" style="background-image:url(images/engineer62.jpg);">
 
 		<div class="overlay"></div>
 		<div class="gtco-container">
 			<div class="row">
-				<div class="col-md-12 col-md-offset-0 text-center">
+				<div class="col-md-12 text-center">
 					<div class="display-t">
 
 					<div class="display-tc animate-box" data-animate-effect="fadeIn">
 
-							<img src="logo1.png" style="max-height: 20vh;">
+							<img class="display-tc" src="logo1.png" style="height: auto;">
 
 							<h1>Thai Airside Aviation</h1>
 							<h2>An aircraft maintenance organization</h2>
