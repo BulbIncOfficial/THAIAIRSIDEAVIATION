@@ -103,29 +103,29 @@
       <tr>
         <td>A310-200/300 Series</td>
         <td> </td>
-        <td>x</td>
+        <td>&#10003</td>
       </tr>
       <tr>
         <td>A318-100 Series</td>
-        <td>x</td>
-        <td>x</td>
+        <td>&#10003</td>
+        <td>&#10003</td>
       </tr>
 
 
-      <tr><td>A319-100 Series</td><td>x</td><td>x</td></tr>
-      <tr><td>A320-100/200 Series</td><td>x</td><td>x</td></tr>
-      <tr><td>A321-100/200 Series</td><td>x</td><td>x</td></tr>
-      <tr><td>A300 Series</td><td> </td><td>x</td></tr>
-      <tr><td>A330 Series</td><td> </td><td>x</td></tr>
-      <tr><td>A340 Series</td><td> </td><td>x</td></tr>
-      <tr><td>B737 -100/200 Series</td><td>x</td><td>x</td></tr>
-      <tr><td>B737 – 300/400/500 Series </td><td>x</td><td>x</td></tr>
-      <tr><td>B737-600/700/800/900 Series</td><td>x</td><td>x</td></tr>
-      <tr><td>B747-400 Series</td><td> </td><td>x</td></tr>
-      <tr><td>B757-200 Series</td><td>x</td><td>x</td></tr>
-      <tr><td>B767-200 Series</td><td>x</td><td>x</td></tr>
-      <tr><td>B767-300 Series</td><td>x</td><td>x</td></tr>
-      <tr><td>B777- Series</td><td> </td><td>x</td></tr>
+      <tr><td>A319-100 Series</td><td>&#10003</td><td>&#10003</td></tr>
+      <tr><td>A320-100/200 Series</td><td>&#10003</td><td>&#10003</td></tr>
+      <tr><td>A321-100/200 Series</td><td>&#10003</td><td>&#10003</td></tr>
+      <tr><td>A300 Series</td><td> </td><td>&#10003</td></tr>
+      <tr><td>A330 Series</td><td> </td><td>&#10003</td></tr>
+      <tr><td>A340 Series</td><td> </td><td>&#10003</td></tr>
+      <tr><td>B737 -100/200 Series</td><td>&#10003</td><td>&#10003</td></tr>
+      <tr><td>B737 – 300/400/500 Series </td><td>&#10003</td><td>&#10003</td></tr>
+      <tr><td>B737-600/700/800/900 Series</td><td>&#10003</td><td>&#10003</td></tr>
+      <tr><td>B747-400 Series</td><td> </td><td>&#10003</td></tr>
+      <tr><td>B757-200 Series</td><td>&#10003</td><td>&#10003</td></tr>
+      <tr><td>B767-200 Series</td><td>&#10003</td><td>&#10003</td></tr>
+      <tr><td>B767-300 Series</td><td>&#10003</td><td>&#10003</td></tr>
+      <tr><td>B777- Series</td><td> </td><td>&#10003</td></tr>
 
 
     </tbody>

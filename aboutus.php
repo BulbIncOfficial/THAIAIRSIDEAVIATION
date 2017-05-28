@@ -80,19 +80,17 @@
 	<div class="gtco-section">
 		<div class="gtco-container">
 			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
+				<div class="col-md-8 col-md-offset-2 text-center gtco-heading" style="text-align: justify; text-justify: inter-word;">
 					Thai Airside Aviation Ltd is a newly incorporated Aircraft maintenance organization in Bangladesh exclusively designed to excel in aviation maintenance field satisfying all standards set by European Safety Agency (EASA).
 Thai Airside Aviation offering a good range of aircraft engineering support including Line Maintenance/Technical Handling services to ensure continued airworthiness with extreme on time performance at an optimum cost and enabling airline operators to achieve their operational objectives.
 
 				</div>
 			</div>
 			<div class="row animate-box">
-<<<<<<< HEAD
+
 			<div class="col-md-2"></div>
 				<div class="col-md-4">
-=======
-				<div class="col-md-6">
->>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
+
 					<div class="feature-left animate-box" data-animate-effect="fadeInLeft">
 						<span class="icon">
 							<i class="icon-check"></i>
@@ -104,11 +102,9 @@ Thai Airside Aviation offering a good range of aircraft engineering support incl
 					</div>
 
 				</div>
-<<<<<<< HEAD
+
 				<div class="col-md-4">
-=======
-				<div class="col-md-6">
->>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
+
 				<div class="feature-left animate-box" data-animate-effect="fadeInLeft">
 						<span class="icon">
 							<i class="icon-check"></i>
@@ -122,27 +118,6 @@ Thai Airside Aviation offering a good range of aircraft engineering support incl
 			</div>
 		</div>
 	</div>
-
-<<<<<<< HEAD
-<!-- 	<div class="gtco-cover gtco-cover-sm" style="background-image:url(images/engineer62.jpg);">
-=======
-	<div class="gtco-cover gtco-cover-sm" style="background-image:url(images/engineer62.jpg);">
->>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
-		<div class="overlay"></div>
-		<div class="gtco-container">
-			<div class="row">
-				<div class="col-md-12 col-md-offset-0 text-center">
-					<div class="display-t">
-						
-					</div>
-				</div>
-			</div>
-		</div>
-<<<<<<< HEAD
-	</div> -->
-=======
-	</div>
->>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
 	<div id="gtco-team" class="gtco-section">
 		<div class="gtco-container">
 			<div class="row animate-box">
@@ -152,9 +127,8 @@ Thai Airside Aviation offering a good range of aircraft engineering support incl
 			</div>
 			<div class="row row-pb-md">
 				<div class="col-md-4 animate-box" data-animate-effect="fadeIn">
-<<<<<<< HEAD
-					<div class="gtco-staff" style="text-align: justify;
-    text-justify: inter-word;">
+
+					<div class="gtco-staff justify" >
 						
 						<h3>QUALITY MANAGEMENT</h3>
 						<p>Our customers rely on the flawless quality of our work, and we aim to exceed their expectations. Our performance sets new standards in our industry in terms of work quality, timely service delivery and the availability and reliability of the aircraft in our care.</p>
@@ -162,27 +136,20 @@ Thai Airside Aviation offering a good range of aircraft engineering support incl
 					</div>
 				</div>
 				<div class="col-md-4 animate-box" data-animate-effect="fadeIn">
-					<div class="gtco-staff" style="text-align: justify;
-    text-justify: inter-word;">
+					<div class="gtco-staff justify" >
 						
 						<h3>OCCUPATIONAL SAFETY, HEALTH AND ENVIRONMENT</h3>
 						<p>Safety is the cornerstone for all of our activities To ensure safety, we have dedicated safety representatives who conduct safety audits, campaigns, and workplace hazard assessments as well as provide mandatory training courses to enhance health and safety awareness and ensure a safe working environment is provided to all our employees. <br><br>
 						We are committed to protect our environment, and it is an integral part of our business. To improve our environmental footprint we are conducting regular monitor consumption of resources, such as energy, water and waste production, as well as provide awareness training to our employees.<br><br>
 For changes to workplaces we assess the potential impact on occupational safety, health and the environment to make sure that we improve continuously.
 </p>
-=======
-					<div class="gtco-staff">
-						
-						<h3>Safety</h3>
-						<p>Safety is the cornerstone for all of our activities. By practice and procedure, we strive for safety for each customer, employee, and the environment.</p>
->>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
+
 						
 					</div>
 				</div>
 				<div class="col-md-4 animate-box" data-animate-effect="fadeIn">
-<<<<<<< HEAD
-					<div class="gtco-staff" style="text-align: justify;
-    text-justify: inter-word;">
+
+					<div class="gtco-staff justify" >
 						
 						<h3>SAFETY MANAGEMENT SYSTEM </h3>
 						<p>Safety excellence is an integral part of all our activities. Our senior management has determined that safety and quality excellence are key factors of our mission.<br><br>
@@ -197,40 +164,24 @@ For changes to workplaces we assess the potential impact on occupational safety,
 
 			<div class="col-md-2"></div>
 				<div class="col-md-4 animate-box" data-animate-effect="fadeIn">
-					<div class="gtco-staff" style="text-align: justify;
-    text-justify: inter-word;">
+					<div class="gtco-staff justify" >
 						
 						<h3>TRUST & BELIEF </h3>
-=======
-					<div class="gtco-staff">
-						
-						<h3>Customer always</h3>
-						<p>We operate with our customers’ values in mind. We plan, perform, revise, and improve continuously to facilitate customers in all their aspects.</p>
-						
-					</div>
-				</div>
-				<div class="col-md-4 animate-box" data-animate-effect="fadeIn">
-					<div class="gtco-staff">
-						
-						<h3>Trust & Belief </h3>
->>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
+
 						<p>We serve our customers with the conviction of “we can do better” firmly instilled in every employee. We build mutual trust and teamwork among employees based on our “discipline, practices, respect and responsibility” commitment.</p>
 						
 					</div>
 				</div>
-<<<<<<< HEAD
+
 				<div class="col-md-4 animate-box" data-animate-effect="fadeIn">
-					<div class="gtco-staff" style="text-align: justify;
-    text-justify: inter-word;">
+					<div class="gtco-staff justify" >
 						
 						<h3>COMMUNICATION</h3>
 						<p>We take our employees, our customers and all our other partners seriously, and encourage constant dialogue with them all.  We inform them swiftly, openly and honestly about all major events and developments at our company; and we give them ample opportunity to voice their suggestions and concerns.</p>
 						
 					</div>
 				</div>
-				
-=======
->>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
+
 			</div>
 
 

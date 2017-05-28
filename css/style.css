@@ -12,11 +12,16 @@
 * ======================================================= */
 body {
   font-family: "Raleway", Arial, sans-serif;
-  font-weight: 400;
+  font-weight: 300;
   font-size: 16px;
   line-height: 1.7;
-  color: #828282;
+  color: darkslategray;
   background: #fff;
+
+}
+.justify{
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 #page {
@@ -107,7 +112,7 @@ h1, h2, h3, h4, h5, h6, figure {
   }
 }
 .gtco-nav #gtco-logo {
-  font-size: 20px;
+  font-size: 16px;
   margin: 0;
   padding: 0;
   text-transform: uppercase;
@@ -316,6 +321,7 @@ h1, h2, h3, h4, h5, h6, figure {
   float: left;
   width: 100%;
 }
+
 .gtco-cover a {
   color: rgba(255, 255, 255, 0.7);
   border-bottom: 1px solid rgba(255, 255, 255, 0.2);
@@ -709,7 +715,7 @@ form label {
 .gtco-heading p {
   font-size: 18px;
   line-height: 1.5;
-  color: #828282;
+  color: darkslategray;
 }
 
 #gtco-testimonial {
@@ -942,6 +948,7 @@ form label {
 }
 #gtco-footer .copyright .block {
   display: block;
+  color: #fff;
 }
 
 .owl-carousel .owl-controls .owl-dot span {

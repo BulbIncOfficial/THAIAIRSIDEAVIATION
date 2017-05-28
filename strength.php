@@ -54,7 +54,7 @@
 	<![endif]-->
 
 	</head>
-	<body>
+	<body >
 		
 	<div class="gtco-loader"></div>
 	
@@ -68,11 +68,9 @@
 				<div class="col-md-8 col-md-offset-2 text-center">
 					<div class="display-t">
 						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-<<<<<<< HEAD
+
 							<h1>Our Strength</h1>
-=======
-							<h1>Strength</h1>
->>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
+
 							
 						</div>
 					</div>
@@ -84,7 +82,7 @@
 	<div class="gtco-section">
 		<div class="gtco-container">
 			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
+				<div class="col-md-8 col-md-offset-2 text-center gtco-heading justify">
 					Thai Airside Aviation at the moment working to JV with a renowned aircraft maintenance company having EASA Part-145 Line Maintenance Service to various aircrafts operating through Hazrat Shahjalal International Airport (HSIA), Dhaka, Bangladesh.
 <br>
 <br>

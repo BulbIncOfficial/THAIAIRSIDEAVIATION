@@ -84,8 +84,7 @@
 
 
 				<h3>Facilities (under consideration)</h3>
-				<ul style="text-align: justify;
-    text-justify: inter-word;">
+				<ul class="justify">
 
 					  <li>Office for Accountable Manager, Director Engineering, Manager - Maintenance, 
 Manager - Quality, Snr. Engineer – Maintenance, Station Engineers and Mechanics</li>

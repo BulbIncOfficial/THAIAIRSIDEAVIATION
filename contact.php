@@ -54,7 +54,7 @@
 	<![endif]-->
 
 	</head>
-	<body>
+	<body class="justify">
 		
 	<div class="gtco-loader"></div>
 	
@@ -79,8 +79,8 @@
 	<div class="gtco-section">
 		<div class="gtco-container">
 			<div class="row">
-			<div class="col-md-1"></div>
-				<div class="col-md-10 animate-box">
+			
+				<div class="col-md-9 col-md-offset-1 animate-box">
 					<h3>Contact Us</h3>
 					<p>We look forward to an effective partnership with all carries offering safe and reliable maintenance services in compliance with their respective quality and regulatory authorities’ requirements.</p>
 					<br>
@@ -89,7 +89,7 @@
 				</div>
 
 				</div>
-				<div class="row">
+				<div class="row col-md-offset-1">
 				<div class="col-md-6 animate-box">
 					
 					<div class="gtco-contact-info">
