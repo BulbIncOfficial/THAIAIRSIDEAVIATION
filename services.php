@@ -82,22 +82,18 @@
 		<div class="gtco-section">
 			<div class="gtco-container">
 				<div class="row animate-box">
-					<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-						<p style="text-align: justify; text-justify: inter-word;">Thai Airside Aviation is committed to provide customized cost effective engineering services for all international airlines operating to/from Bangladesh. Listed below the expertise and a comprehensive list of services we will offer to our clients:</p>
+					<div class="col-md-8 col-md-offset-2 text-center gtco-heading" data-animate-effect="fadeIn">
+						<p class="justify"> <b>Thai Airside Aviation is committed to provide customized cost effective engineering services for all international airlines operating to/from Bangladesh. Listed below the expertise and a comprehensive list of services we will offer to our clients:</b></p>
 
 					</div>
 
-					<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
+					<div class="col-md-8 col-md-offset-2 text-center gtco-heading" data-animate-effect="fadeIn">
 						<h2>Technical Support</h2>
 
-						<p style="text-align: justify; text-justify: inter-word;">Our team consists of highly skilled and dedicated professionals, trained on various modern days’ Aircrafts & Engines in Line and Base maintenance.</p> 
-						
-					</div>
+						<p class="justify">Our team consists of highly skilled and dedicated professionals, trained on various modern days’ Aircrafts & Engines in Line and Base maintenance.</p> 
+						<p class="justify">Technical handling services provided by Airside Engineering as follows: </p>
 
-					<div class="col-md-8 col-md-offset-2 gtco-heading">
-					<p style="text-align: justify; text-justify: inter-word;">Technical handling services provided by Airside Engineering as follows: </p>
-
-						<ul>
+						<ul style="text-align: left;">
 							<li>Aircraft Inspections </li>
 							<li>Pre-flight Inspection & Transit Check with airworthiness release certification </li>
 							<li>Daily Checks</li>
@@ -108,21 +104,14 @@
 							<li>Other Engineering Support</li>
 							<li>24 Hour Technical Support</li>
 						</ul> 
-
+						
 					</div>
 
 				</div>
 
-			</div>
-		</div>
-
-
-
-		<div id="gtco-team" class="gtco-section">
-			<div class="gtco-container">
-				<div class="row animate-box">
+				<div class="row animate-box" data-animate-effect="fadeIn">
 					<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
-						<p  style="text-align: justify; text-justify: inter-word;">
+						<p  class="justify">
 							<b>
 								We are committed to maintaining quality and integrity in all aspects of our operation and assisting you, our valued customer, in making informed choices to meet your flying needs. Besides Line Maintenance Airside Capable to provide following services:
 							</b></p>
@@ -130,100 +119,87 @@
 						</div>
 					</div>
 					<div class="row row-pb-md">
-						<div class="col-md-1"></div>
-						<div class="col-md-10 animate-box" data-animate-effect="fadeIn">
+						<div class="col-md-8 col-md-offset-2 animate-box" data-animate-effect="fadeIn">
 							<div class="gtco-staff">
 
 								<h3>Ground Handling Services</h3>
-								<p style="text-align: justify;
-								text-justify: inter-word;">Thai Airside Aviation wishes a reputation for providing first-rate above-the-wing ground handling services for some of the world’s leading airlines that operates in HSIA.
-								<br>
+								<p class="justify">Thai Airside Aviation wishes a reputation for providing first-rate above-the-wing ground handling services for some of the world’s leading airlines that operates in HSIA.
+								</p>
+								<p class="justify">We wish to provide reliabl e on-demand ground handling services with speed, efficiency, excellence and accuracy.</p>
+								<p class="justify">From ramp handling, VIP, passenger, cargo and luggage handling, hotel accommodation, meet and assist, catering, transportation, customs and immigration assistance, we wish to take care of all the flight requirements.</p>
 
-								We wish to provide reliabl e on-demand ground handling services with speed, efficiency, excellence and accuracy. 
-								<br>
+							</div>
+						</div>
 
-								From ramp handling, VIP, passenger, cargo and luggage handling, hotel accommodation, meet and assist, catering, transportation, customs and immigration assistance, we wish to take care of all the flight requirements.
-							</p>
+					</div>
 
+					<div class="row row-pb-md">
+
+
+
+						<div class="col-md-4 col-md-offset-2 animate-box" data-animate-effect="fadeIn">
+							<div class="gtco-staff">
+
+								<h3>Flight Planning</h3>
+								<p class="justify">Our teams of professional and certified dispatchers use state-of-the-art flight planning systems to provide reliable and accurate flight plans that work in compliance with all stakeholders involved.
+									Our own in-house dispatchers customize flight plans and tailor your needs by combining different flight planning systems that give the most optimum flight plans. 
+									<ul style="text-align: left;">
+										<li>Flight Crew Briefings</li>
+										<li>ATC Filings</li>
+										<li>Test Plans</li>
+										<li>Route Analysis</li>
+										<li>Data Uplink</li>
+										<li>Flight Watch</li>
+									</ul>
+								</p>
+
+
+
+							</div>
+						</div>
+						<div class="col-md-4 animate-box" data-animate-effect="fadeIn">
+							<div class="gtco-staff">
+
+								<h3>Flight Permits</h3>
+								<p class="justify">We have the ability to secure all required flight permits in the fastest and most efficient way.
+									We look after overflight and landing clearances for a wide range of flight types, from commercial airlines to VIP flight operators and emergency flights, anywhere in the world, in the shortest time, and at competitive prices.
+								</p>
+
+							</div>
 						</div>
 					</div>
 
 				</div>
-
-				<div class="row row-pb-md">
-
-					<div class="col-md-1 animate-box"></div>
-
-
-					<div class="col-md-5 animate-box" data-animate-effect="fadeIn">
-						<div class="gtco-staff">
-
-							<h3>Flight Planning</h3>
-							<p style="text-align: justify;
-							text-justify: inter-word;">Our teams of professional and certified dispatchers use state-of-the-art flight planning systems to provide reliable and accurate flight plans that work in compliance with all stakeholders involved.
-							Our own in-house dispatchers customize flight plans and tailor your needs by combining different flight planning systems that give the most optimum flight plans. 
-						</p>
-
-						<ul style="text-align: justify;
-						text-justify: inter-word;">
-
-
-
-						<li>Flight Crew Briefings</li>
-						<li>ATC Filings</li>
-						<li>Test Plans</li>
-						<li>Route Analysis</li>
-						<li>Data Uplink</li>
-						<li>Flight Watch</li>
-
-					</ul>
-
-				</div>
 			</div>
-			<div class="col-md-5 animate-box" data-animate-effect="fadeIn">
-				<div class="gtco-staff">
 
-					<h3>Flight Permits</h3>
-					<p style="text-align: justify;
-					text-justify: inter-word;">We have the ability to secure all required flight permits in the fastest and most efficient way.
-					We look after overflight and landing clearances for a wide range of flight types, from commercial airlines to VIP flight operators and emergency flights, anywhere in the world, in the shortest time, and at competitive prices.
-				</p>
 
-			</div>
+
+
+			<?php require_once("footer.php");?> 
 		</div>
-	</div>
 
+		<div class="gototop js-top">
+			<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
+		</div>
 
-</div>
-</div>
+		<!-- jQuery -->
+		<script src="js/jquery.min.js"></script>
+		<!-- jQuery Easing -->
+		<script src="js/jquery.easing.1.3.js"></script>
+		<!-- Bootstrap -->
+		<script src="js/bootstrap.min.js"></script>
+		<!-- Waypoints -->
+		<script src="js/jquery.waypoints.min.js"></script>
+		<!-- Carousel -->
+		<script src="js/owl.carousel.min.js"></script>
+		<!-- countTo -->
+		<script src="js/jquery.countTo.js"></script>
+		<!-- Magnific Popup -->
+		<script src="js/jquery.magnific-popup.min.js"></script>
+		<script src="js/magnific-popup-options.js"></script>
+		<!-- Main -->
+		<script src="js/main.js"></script>
 
-
-
-<?php require_once("footer.php");?> 
-</div>
-
-<div class="gototop js-top">
-	<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
-</div>
-
-<!-- jQuery -->
-<script src="js/jquery.min.js"></script>
-<!-- jQuery Easing -->
-<script src="js/jquery.easing.1.3.js"></script>
-<!-- Bootstrap -->
-<script src="js/bootstrap.min.js"></script>
-<!-- Waypoints -->
-<script src="js/jquery.waypoints.min.js"></script>
-<!-- Carousel -->
-<script src="js/owl.carousel.min.js"></script>
-<!-- countTo -->
-<script src="js/jquery.countTo.js"></script>
-<!-- Magnific Popup -->
-<script src="js/jquery.magnific-popup.min.js"></script>
-<script src="js/magnific-popup-options.js"></script>
-<!-- Main -->
-<script src="js/main.js"></script>
-
-</body>
-</html>
+	</body>
+	</html>
 

@@ -84,6 +84,7 @@
 			<div class="row animate-box">
 				<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
 					<h2>MANAGEMENT</h2>
+					<p class="justify">From the outset our management philosophy is to build on teamwork, total commitment to our customers and a determination to constantly strive to exceed the expectations of customers.</p>
 				</div>
 			</div>
 			<div class="row row-pb-md">

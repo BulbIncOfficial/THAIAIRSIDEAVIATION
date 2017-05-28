@@ -47,19 +47,20 @@
 					<ul class="gtco-social-icons pull-right">
 
 				<li>
-					<a href="http://facebook.com"><i class="icon-facebook"></i></a>
+					<a href="http://facebook.com" target="_blank"><i class="icon-facebook"></i></a>
 				</li>
 				<li>
-					<a href="http://facebook.com"><i class="icon-twitter"></i></a>
+					<a href="http://twitter.com" target="_blank"><i class="icon-twitter"></i></a>
 				</li>
 				<li>
-					<a href="http://facebook.com"><i class="icon-google"></i></a>
+					<a href="http://instagram.com" target="_blank"><i class="icon-instagram"></i></a>
 				</li>
 				<li>
-					<a href="http://facebook.com"><i class="icon-linkedin"></i></a>
+					<a href="http://linkedin.com" target="_blank"><i class="icon-linkedin"></i></a>
 				</li>
+				<li style="font-size: 35px; color: #fff;">&nbsp;&nbsp;&nbsp;&nbsp; |</li>
 				<li>
-					<a href="http://facebook.com"><i class="icon-mail"></i></a>
+					<a href="mailto:ops@thaiairsideaviation.com" target="_blank"><i class="icon-mail"></i></a>
 				</li>
 
 			</ul>

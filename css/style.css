@@ -360,21 +360,20 @@ h1, h2, h3, h4, h5, h6, figure {
     height: 600px;
   }
 }
+/*Control pic header of all page*/
 .gtco-cover.gtco-cover-sm {
-<<<<<<< HEAD
-  height: 80vh;
-=======
-  height: 600px;
->>>>>>> 777421267aacc1d28c9cddd565de864a155a38e5
+
+  height: 60vh;
 }
 @media screen and (max-width: 768px) {
   .gtco-cover.gtco-cover-sm {
     height: 400px;
   }
 }
+/*Control pic header of all page*/
 .gtco-cover.gtco-cover-sm .display-t,
 .gtco-cover.gtco-cover-sm .display-tc {
-  height: 600px;
+  height: 400px;
   display: table;
   width: 100%;
 }
@@ -454,7 +453,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-right: 10px;
 }
 .gtco-social-icons li a i {
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .gtco-contact-info {
@@ -494,15 +493,15 @@ h1, h2, h3, h4, h5, h6, figure {
   content: "\e9d1";
 }
 .gtco-contact-info ul li.phone:before {
-  font-size: 23px;
+  font-size: 20px;
   content: "\e9f4";
 }
 .gtco-contact-info ul li.email:before {
-  font-size: 23px;
+  font-size: 20px;
   content: "\e9da";
 }
 .gtco-contact-info ul li.url:before {
-  font-size: 23px;
+  font-size: 20px;
   content: "\e9af";
 }
 
@@ -592,7 +591,7 @@ form label {
 #gtco-subscribe,
 #gtco-footer,
 .gtco-section {
-  padding: 7em 0;
+  padding: 3em 0;
   clear: both;
 }
 @media screen and (max-width: 768px) {

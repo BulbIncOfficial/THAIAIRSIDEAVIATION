@@ -5,7 +5,7 @@
 	URL: http://FreeHTML5.co
 -->
 <html>
-	<head>
+<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Our Strength</title>
@@ -16,7 +16,7 @@
 
 	
 
-  	<!-- Facebook and Twitter integration -->
+	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
 	<meta property="og:url" content=""/>
@@ -53,94 +53,80 @@
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
 
-	</head>
-	<body >
-		
+</head>
+<body >
+
 	<div class="gtco-loader"></div>
 	
 	<div id="page">
-<?php require_once("nav.php");?> 
+		<?php require_once("nav.php");?> 
 
-	<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image:url(images/strength.png);">
-		<div class="overlay"></div>
-		<div class="gtco-container">
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2 text-center">
-					<div class="display-t">
-						<div class="display-tc animate-box" data-animate-effect="fadeIn">
+		<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image:url(images/strength.png);">
+			<div class="overlay"></div>
+			<div class="gtco-container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center">
+						<div class="display-t">
+							<div class="display-tc animate-box" data-animate-effect="fadeIn">
 
-							<h1>Our Strength</h1>
+								<h1>Our Strength</h1>
 
-							
+
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-	</header>
-	
-	<div class="gtco-section">
-		<div class="gtco-container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2 text-center gtco-heading justify">
-					Thai Airside Aviation at the moment working to JV with a renowned aircraft maintenance company having EASA Part-145 Line Maintenance Service to various aircrafts operating through Hazrat Shahjalal International Airport (HSIA), Dhaka, Bangladesh.
-<br>
-<br>
-The Chairman of Thai Airside Aviation is the Chairman of Avalon Aviation since 2009 and has successfully operated at Hazrat Shahjalal International Airport (HSIA) with BCT Aviation UK for three years and Fl Technic-Storm Aviation for five years. Both the companies have EASA-145 and line stations in many international airports of the world. Also conducting line maintenance for Kingfisher, Emirates, Mihinlanja, British Airways Cargo, Turkish Airlines, Lufthansa Cargo, KLM Cargo, Afriqiyah Airways and GMG Airlines.
+		</header>
 
-<br>
-
-
-<a href="http://www.avalonengineering.org"> www.avalonengineering.org </a>
-
-<br><br><br>
-
-The Managing Directors experience in JV operations with BCT and FL Technic is my strength on which Thai Airside Aviation is created.
-<br>
-<br>
-It is also notable that Chairman of Thai Airside Aviation is also the Chairman of Ban Air Ltd which conducts flight operations for non schedule flights at Hazrat Shahjalal International Airport (HSIA). 
-<a href="http://www.banairbd.com "> www.banairbd.com </a>
+		<div class="gtco-section">
+			<div class="gtco-container">
+			<div class="row animate-box" data-animate-effect="fadeIn">
+					<div class="col-md-8 col-md-offset-2 text-center gtco-heading justify">
+						<p>Thai Airside Aviation at the moment working to JV with a renowned aircraft maintenance company having EASA Part-145 Line Maintenance Service to various aircrafts operating through Hazrat Shahjalal International Airport (HSIA), Dhaka, Bangladesh.</p>
+						<p>The Chairman of Thai Airside Aviation is the Chairman of Avalon Aviation since 2009 and has successfully operated at Hazrat Shahjalal International Airport (HSIA) with BCT Aviation UK for three years and Fl Technic-Storm Aviation for five years. Both the companies have EASA-145 and line stations in many international airports of the world. Also conducting line maintenance for Kingfisher, Emirates, Mihinlanja, British Airways Cargo, Turkish Airlines, Lufthansa Cargo, KLM Cargo, Afriqiyah Airways and GMG Airlines.
+							<a href="http://www.avalonengineering.org"> www.avalonengineering.org </a></p>
+							<p>The Managing Directors experience in JV operations with BCT and FL Technic is my strength on which Thai Airside Aviation is created.</p>
+							<p>It is also notable that Chairman of Thai Airside Aviation is also the Chairman of Ban Air Ltd which conducts flight operations for non schedule flights at Hazrat Shahjalal International Airport (HSIA). 
+								<a href="http://www.banairbd.com "> www.banairbd.com </a></p>
+							</div>
 
 
 
+
+						</div>
+
+					</div>
 				</div>
 
-				
 
 
+
+				<?php require_once("footer.php");?> 
 			</div>
-			
-		</div>
-	</div>
 
+			<div class="gototop js-top">
+				<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
+			</div>
 
+			<!-- jQuery -->
+			<script src="js/jquery.min.js"></script>
+			<!-- jQuery Easing -->
+			<script src="js/jquery.easing.1.3.js"></script>
+			<!-- Bootstrap -->
+			<script src="js/bootstrap.min.js"></script>
+			<!-- Waypoints -->
+			<script src="js/jquery.waypoints.min.js"></script>
+			<!-- Carousel -->
+			<script src="js/owl.carousel.min.js"></script>
+			<!-- countTo -->
+			<script src="js/jquery.countTo.js"></script>
+			<!-- Magnific Popup -->
+			<script src="js/jquery.magnific-popup.min.js"></script>
+			<script src="js/magnific-popup-options.js"></script>
+			<!-- Main -->
+			<script src="js/main.js"></script>
 
-
-<?php require_once("footer.php");?> 
-	</div>
-
-	<div class="gototop js-top">
-		<a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
-	</div>
-	
-	<!-- jQuery -->
-	<script src="js/jquery.min.js"></script>
-	<!-- jQuery Easing -->
-	<script src="js/jquery.easing.1.3.js"></script>
-	<!-- Bootstrap -->
-	<script src="js/bootstrap.min.js"></script>
-	<!-- Waypoints -->
-	<script src="js/jquery.waypoints.min.js"></script>
-	<!-- Carousel -->
-	<script src="js/owl.carousel.min.js"></script>
-	<!-- countTo -->
-	<script src="js/jquery.countTo.js"></script>
-	<!-- Magnific Popup -->
-	<script src="js/jquery.magnific-popup.min.js"></script>
-	<script src="js/magnific-popup-options.js"></script>
-	<!-- Main -->
-	<script src="js/main.js"></script>
-
-	</body>
-</html>
+		</body>
+		</html>
 

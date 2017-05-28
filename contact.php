@@ -80,24 +80,23 @@
 		<div class="gtco-container">
 			<div class="row">
 			
-				<div class="col-md-9 col-md-offset-1 animate-box">
+				<div class="col-md-8 col-md-offset-2 animate-box">
 					<h3>Contact Us</h3>
 					<p>We look forward to an effective partnership with all carries offering safe and reliable maintenance services in compliance with their respective quality and regulatory authorities’ requirements.</p>
-					<br>
-					<br>
-					<br>
+					
 				</div>
 
 				</div>
-				<div class="row col-md-offset-1">
-				<div class="col-md-6 animate-box">
+
+				<div class="row" style="padding-top: 50px">
+				<div class="col-md-5 col-md-offset-2 animate-box" >
 					
-					<div class="gtco-contact-info">
+					<div class="gtco-contact-info" style="text-align: left;">
 						<h3>Airport Office (Applied)</h3>
 						<ul>
 							<li class="address">Thai Airside Aviation Limited<br>
 												Apron area, Hanger Gate No 8<br>
-												HS International Airport 
+												HS International Airport <br>
 												Dhaka 1230, Bangladesh
 												</li>
 							<li class="phone"><a href="tel://+88029847930">+ 88 02 984 7930</a></li>
@@ -109,7 +108,7 @@
 
 				</div>
 
-				<div class="col-md-6 animate-box">
+				<div class="col-md-5 animate-box" style="text-align: left;">
 					<div class="gtco-contact-info">
 							<h3>Corporate Office</h3>
 							<ul>

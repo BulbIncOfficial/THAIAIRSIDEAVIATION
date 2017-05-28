@@ -5,7 +5,7 @@
 	URL: http://FreeHTML5.co
 -->
 <html>
-	<head>
+<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Our Capabilities</title>
@@ -16,7 +16,7 @@
 
 	
 
-  	<!-- Facebook and Twitter integration -->
+	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
 	<meta property="og:url" content=""/>
@@ -52,100 +52,105 @@
 	<!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
+	<style>
+		.green{
+			color: #5ee02b;
+		}
+	</style>
 
-	</head>
-	<body>
-		
+</head>
+<body>
+	
 	<div class="gtco-loader"></div>
 	
 	<div id="page">
-<?php require_once("nav.php");?> 
+		<?php require_once("nav.php");?> 
 
-	<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image:url(images/cap.jpg);">
-		<div class="overlay"></div>
-		<div class="gtco-container">
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2 text-center">
-					<div class="display-t">
-						<div class="display-tc animate-box" data-animate-effect="fadeIn">
-							<h1>Our Capabilities</h1>
-							
+		<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image:url(images/cap.jpg);">
+			<div class="overlay"></div>
+			<div class="gtco-container">
+				<div class="row">
+					<div class="col-md-8 col-md-offset-2 text-center">
+						<div class="display-t">
+							<div class="display-tc animate-box" data-animate-effect="fadeIn">
+								<h1>Our Capabilities</h1>
+								
+							</div>
 						</div>
 					</div>
 				</div>
 			</div>
-		</div>
-	</header>
-	
+		</header>
+		
 
 
 
 
 
 
-	<div class="gtco-section">
-		<div class="gtco-container">
-			<div class="row animate-box">
-				<div class="col-md-8 col-md-offset-2">
+		<div class="gtco-section">
+			<div class="gtco-container">
+				<div class="row animate-box" data-animate-effect="fadeInLeft">
+					<div class="col-md-8 col-md-offset-2">
 
 
-				<div class="table-responsive">          
-  <table class="table">
-    <thead>
-      <tr>
-        <th>Aircraft Type</th>
-        <th>Base</th>
-        <th>Line</th>
-        
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>A310-200/300 Series</td>
-        <td> </td>
-        <td>&#10003</td>
-      </tr>
-      <tr>
-        <td>A318-100 Series</td>
-        <td>&#10003</td>
-        <td>&#10003</td>
-      </tr>
+						<div class="table-responsive" >          
+							<table class="table" >
+								<thead>
+									<tr>
+										<th>Aircraft Type</th>
+										<th>Base</th>
+										<th>Line</th>
+										
+									</tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td>A310-200/300 Series</td>
+										<td> </td>
+										<td><i class="icon-check green"></i></td>
+									</tr>
+									<tr>
+										<td>A318-100 Series</td>
+										<td><i class="icon-check green"></i></td>
+										<td><i class="icon-check green"></i></td>
+									</tr>
 
 
-      <tr><td>A319-100 Series</td><td>&#10003</td><td>&#10003</td></tr>
-      <tr><td>A320-100/200 Series</td><td>&#10003</td><td>&#10003</td></tr>
-      <tr><td>A321-100/200 Series</td><td>&#10003</td><td>&#10003</td></tr>
-      <tr><td>A300 Series</td><td> </td><td>&#10003</td></tr>
-      <tr><td>A330 Series</td><td> </td><td>&#10003</td></tr>
-      <tr><td>A340 Series</td><td> </td><td>&#10003</td></tr>
-      <tr><td>B737 -100/200 Series</td><td>&#10003</td><td>&#10003</td></tr>
-      <tr><td>B737 – 300/400/500 Series </td><td>&#10003</td><td>&#10003</td></tr>
-      <tr><td>B737-600/700/800/900 Series</td><td>&#10003</td><td>&#10003</td></tr>
-      <tr><td>B747-400 Series</td><td> </td><td>&#10003</td></tr>
-      <tr><td>B757-200 Series</td><td>&#10003</td><td>&#10003</td></tr>
-      <tr><td>B767-200 Series</td><td>&#10003</td><td>&#10003</td></tr>
-      <tr><td>B767-300 Series</td><td>&#10003</td><td>&#10003</td></tr>
-      <tr><td>B777- Series</td><td> </td><td>&#10003</td></tr>
+									<tr><td>A319-100 Series</td><td><i class="icon-check green"></i></td><td><i class="icon-check green"></i></td></tr>
+									<tr><td>A320-100/200 Series</td><td><i class="icon-check green"></i></td><td><i class="icon-check green"></i></td></tr>
+									<tr><td>A321-100/200 Series</td><td><i class="icon-check green"></i></td><td><i class="icon-check green"></i></td></tr>
+									<tr><td>A300 Series</td><td> </td><td><i class="icon-check green"></i></td></tr>
+									<tr><td>A330 Series</td><td> </td><td><i class="icon-check green"></i></td></tr>
+									<tr><td>A340 Series</td><td> </td><td><i class="icon-check green"></i></td></tr>
+									<tr><td>B737 -100/200 Series</td><td><i class="icon-check green"></i></td><td><i class="icon-check green"></i></td></tr>
+									<tr><td>B737 – 300/400/500 Series </td><td><i class="icon-check green"></i></td><td><i class="icon-check green"></i></td></tr>
+									<tr><td>B737-600/700/800/900 Series</td><td><i class="icon-check green"></i></td><td><i class="icon-check green"></i></td></tr>
+									<tr><td>B747-400 Series</td><td> </td><td><i class="icon-check green"></i></td></tr>
+									<tr><td>B757-200 Series</td><td><i class="icon-check green"></i></td><td><i class="icon-check green"></i></td></tr>
+									<tr><td>B767-200 Series</td><td><i class="icon-check green"></i></td><td><i class="icon-check green"></i></td></tr>
+									<tr><td>B767-300 Series</td><td><i class="icon-check green"></i></td><td><i class="icon-check green"></i></td></tr>
+									<tr><td>B777- Series</td><td> </td><td><i class="icon-check green"></i></td></tr>
 
 
-    </tbody>
-  </table>
-  </div>
+								</tbody>
+							</table>
+						</div>
+
+					</div>
+
+					
+
 
 				</div>
-
 				
-
-
 			</div>
-			
 		</div>
-	</div>
 
 
 
 
-<?php require_once("footer.php");?> 
+		<?php require_once("footer.php");?> 
 	</div>
 
 	<div class="gototop js-top">
@@ -170,6 +175,6 @@
 	<!-- Main -->
 	<script src="js/main.js"></script>
 
-	</body>
+</body>
 </html>
 
