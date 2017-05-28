@@ -61,7 +61,7 @@
 	<div id="page">
 		<?php require_once("nav.php");?> 
 
-		<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image:url(images/airplane_3-t2.jpg);">
+		<header id="gtco-header" class="gtco-cover gtco-cover-sm" role="banner" style="background-image:url(images/airplane_3-t2.jpg); ">
 			<div class="overlay"></div>
 			<div class="gtco-container">
 				<div class="row">
