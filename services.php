@@ -82,12 +82,10 @@
 		<div class="gtco-section">
 			<div class="gtco-container">
 				<div class="row animate-box">
-					<div class="col-md-8 col-md-offset-2 text-center gtco-heading" data-animate-effect="fadeIn">
-						<p class="justify"> <b>Thai Airside Aviation is committed to provide customized cost effective engineering services for all international airlines operating to/from Bangladesh. Listed below the expertise and a comprehensive list of services we will offer to our clients:</b></p>
-
-					</div>
+					
 
 					<div class="col-md-8 col-md-offset-2 text-center gtco-heading" data-animate-effect="fadeIn">
+						<p class="justify"> <b>Thai Airside Aviation is committed to provide customized cost effective engineering services for all international airlines operating to/from Bangladesh. Listed below the expertise and a comprehensive list of services we will offer to our clients:</b></p> <br>
 						<h2>Technical Support</h2>
 
 						<p class="justify">Our team consists of highly skilled and dedicated professionals, trained on various modern days’ Aircrafts & Engines in Line and Base maintenance.</p> 

@@ -91,9 +91,11 @@
 		<div class="gtco-section">
 			<div class="gtco-container">
 				<div class="row animate-box" data-animate-effect="fadeInLeft">
+					
 					<div class="col-md-8 col-md-offset-2">
-
-
+						<div class="gtco-heading justify" >
+						<p><b>Our maintenance team is experienced in new technology aircraft. The following chart outlines our capabilities:</b></p>
+					</div>
 						<div class="table-responsive" >          
 							<table class="table" >
 								<thead>

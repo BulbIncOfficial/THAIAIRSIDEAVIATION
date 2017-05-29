@@ -69,7 +69,7 @@
 
 					<div class="display-tc animate-box" data-animate-effect="fadeIn">
 
-							<img class="display-tc" src="logo1.png" style="height: auto;">
+							<img class="display-tc" src="Logo_full.png" style="height: auto;">
 
 							<h1>Thai Airside Aviation</h1>
 							<h2>An aircraft maintenance organization</h2>

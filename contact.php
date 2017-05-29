@@ -92,15 +92,15 @@
 				<div class="col-md-5 col-md-offset-2 animate-box" >
 					
 					<div class="gtco-contact-info" style="text-align: left;">
-						<h3>Airport Office (Applied)</h3>
+						<h3>Airport Office</h3>
 						<ul>
 							<li class="address">Thai Airside Aviation Limited<br>
 												Apron area, Hanger Gate No 8<br>
 												HS International Airport <br>
 												Dhaka 1230, Bangladesh
 												</li>
-							<li class="phone"><a href="tel://+88029847930">+ 88 02 984 7930</a></li>
-							<li class="email"><a href="mailto:ops@thaiairsideaviation.com  ">ops@thaiairsideaviation.com  </a></li>
+							<li class="phone"><a href="tel://+8801763774433">+88 0176 3774433</a></li>
+							<li class="email"><a href="mailto:ops@thaiairside.com  ">ops@thaiairside.com  </a></li>
 						</ul>
 					</div>
 
@@ -112,12 +112,13 @@
 					<div class="gtco-contact-info">
 							<h3>Corporate Office</h3>
 							<ul>
-								<li class="address">Leve 3, House 497, Road 33<br>
+								<li class="address">Level 2, House 497, Road- 33<br>
 													New DOHS Mohakhali<br>
 													Dhaka - 1206, Bangladesh
 													</li>
 								<li class="phone"><a href="tel://+8801779199647">+ 88 01779 199647</a></li>
-								<li class="email"><a href="mailto:harun@thaiairsideaviation.com ">harun@thaiairsideaviation.com </a></li>
+								<li class="email"><a href="mailto:deen@thaiairside.com ">deen@thaiairside.com </a></li>
+								<li class="email"><a href="mailto:harun@thaiairside.com ">harun@thaiairside.com </a></li>
 							</ul>
 						</div>
 				</div>

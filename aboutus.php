@@ -115,13 +115,9 @@
 							</div>
 						</div>
 					</div>
-				</div>
-			</div>
-		</div>
 
-		<div id="gtco-team" class="gtco-section">
-			<div class="gtco-container">
-				<div class="row animate-box">
+				</div>
+				<div class="row animate-box"><br>
 					<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
 						<h2>Core Values</h2>
 					</div>
@@ -193,10 +189,8 @@
 						
 
 					</div>
-
-
-				</div>
 			</div>
+		</div>
 
 
 
