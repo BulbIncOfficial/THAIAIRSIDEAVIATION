@@ -80,16 +80,12 @@
 		<div class="gtco-section">
 			<div class="gtco-container">
 				<div class="row animate-box">
-					<div class="col-md-12  gtco-heading justify" >
+					<b class="col-md-12 justify" style="padding-bottom: 40px;" >
 						Thai Airside Aviation Ltd is a newly incorporated Aircraft maintenance organization in Bangladesh exclusively designed to excel in aviation maintenance field satisfying all standards set by European Safety Agency (EASA).
 						Thai Airside Aviation offering a good range of aircraft engineering support including Line Maintenance/Technical Handling services to ensure continued airworthiness with extreme on time performance at an optimum cost and enabling airline operators to achieve their operational objectives.
 
-					</div>
-				</div>
-				<div class="row animate-box">
-
-					<div class="col-md-2"></div>
-					<div class="col-md-4">
+					</b>
+					<div class="col-md-4 col-md-offset-2">
 
 						<div class="feature-left animate-box" data-animate-effect="fadeInLeft">
 							
@@ -111,9 +107,9 @@
 							</div>
 						</div>
 					</div>
-
 				</div>
-				<div class="row animate-box">
+				
+				<div class="row animate-box"><br>
 					<div class="col-md-8 col-md-offset-2 text-center gtco-heading">
 						<h2>Core Values</h2>
 					</div>

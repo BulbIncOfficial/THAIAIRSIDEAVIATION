@@ -2,7 +2,7 @@
 	<div class="gtco-container">
 		<div class="row">
 			<div class="col-xs-2">
-				<div id="gtco-logo" style="color:#fff;"><img src="Logo full__q.png" style="max-height: 5vh;"></div>
+				<div id="gtco-logo" style="color:#fff;"><img src="logo_nav.png" style="max-height: 8vh;"></div>
 			</div>
 			<div class="col-xs-10 text-right menu-1">
 				<ul>
